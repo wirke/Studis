@@ -5,7 +5,7 @@ namespace Studis.Server.Model
     public class Kredencijali
     {
         public int Id { get; set; }
-        public string email { get; set; }
+        public string Email { get; set; }
         public virtual Student Student { get; set; }
         public virtual Profesor Profesor { get; set; }
         public virtual Admin Admin { get; set; }

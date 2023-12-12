@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Studis.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0123b77fbdd098207b06ee2aaf18d8f2c5d25499")]
 [assembly: System.Reflection.AssemblyProductAttribute("Studis.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Studis.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

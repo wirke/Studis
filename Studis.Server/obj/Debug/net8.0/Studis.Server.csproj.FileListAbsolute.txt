@@ -143,3 +143,4 @@ C:\Users\wirke\source\repos\Studis\Studis.Server\bin\Debug\net8.0\Microsoft.AspN
 C:\Users\wirke\source\repos\Studis\Studis.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\wirke\source\repos\Studis\Studis.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\wirke\source\repos\Studis\Studis.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\wirke\source\repos\Studis\Studis.Server\obj\Debug\net8.0\Studis.Server.sourcelink.json
