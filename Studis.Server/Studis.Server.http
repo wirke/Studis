@@ -1,0 +1,6 @@
+@Studis.Server_HostAddress = http://localhost:5209
+
+GET {{Studis.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
